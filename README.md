@@ -11,7 +11,7 @@ Projeto Integrador Extensionista · ADS.
 ## Como rodar
 
 1. Clone o repositório e entre na pasta:
-   git clone https://github.com/SEU-USUARIO/vidaverde.git
+   git clone https://github.com/wellintonmbvix/vidaverde.git
    cd vidaverde
 2. Instale as dependências: vp install
 3. Copie .env.example para .env
